@@ -1,4 +1,4 @@
 # myFirst-Repo
 myFirst Repo
 <br>
-Author - Tasmiya Nadaf
+Author - Tasmiya Nadaf (Developer)
